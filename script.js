@@ -2,7 +2,7 @@
 const images = ["CloudMosnter","page1.png"]; // Add your image file names here
 
 // Index to track the current image in the cycle
-let currentIndex = 1;
+let currentIndex = 0;
 
 // Select the image element
 const imageElement = document.getElementById("slider-image");
