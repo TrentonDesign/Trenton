@@ -24,4 +24,3 @@ function nextImage(event) {
   // Update the image source
   sliderImage.src = images[currentIndex];
 }
-
