@@ -1,5 +1,5 @@
 // Array of image paths
-const images = ["CloudMonster.png", "page1.png"]; 
+const images = [ "page1.png","CloudMonster.png"]; 
 let currentIndex = 0;
 
 // Function to change the image
