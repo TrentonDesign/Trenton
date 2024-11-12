@@ -1,5 +1,5 @@
 // Your array of images
-const images = ["TrentonCover.png", "page1.png", "page2.png"]; // Add your image file names here
+const images = ["TrentonCover.png", "page1.png", "page2.png", "page3.png"]; // Add your image file names here
 
 // Index to track the current image in the cycle
 let currentIndex = 0;
