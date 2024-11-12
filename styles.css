@@ -18,3 +18,11 @@ body {
     cursor: pointer;
   }
   
+#sliderImage {
+    max-width: 90%; /* Scale the image to fill up to 90% of the container width */
+    max-height: 80vh; /* Prevent the image from being taller than 80% of the viewport height */
+    width: auto; /* Maintain the aspect ratio */
+    height: auto; /* Maintain the aspect ratio */
+    cursor: pointer; /* Show pointer to indicate the image is clickable */
+    user-select: none; /* Prevent text selection on double-click */
+}
