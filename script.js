@@ -4,7 +4,6 @@ const images = ["CloudMonster.png", "page1.png", "page2.png"]; // Add your image
 // Index to track the current image in the cycle
 let currentIndex = 0;
 
-
 // Function to change the image
 function nextImage(event) {
   const sliderImage = document.getElementById("sliderImage");
